@@ -1,0 +1,50 @@
+{
+  "pins" : [
+    {
+      "identity" : "anycodable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/flight-school/AnyCodable.git",
+      "state" : {
+        "revision" : "f9fda69a7b704d46fb5123005f2f7e43dbb8a0fa",
+        "version" : "0.6.5"
+      }
+    },
+    {
+      "identity" : "geojson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kiliankoe/GeoJSON",
+      "state" : {
+        "revision" : "c984459c86b8f5ce583da65278ae901f250804f6",
+        "version" : "0.6.1"
+      }
+    },
+    {
+      "identity" : "reactivemap",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Niccari/ReactiveMap",
+      "state" : {
+        "branch" : "feature/tappable_overlay",
+        "revision" : "b935d37b8a3f334d529426927303f9bd19fbb0d8"
+      }
+    },
+    {
+      "identity" : "rxswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/ReactiveX/RxSwift.git",
+      "state" : {
+        "revision" : "b4307ba0b6425c0ba4178e138799946c3da594f8",
+        "version" : "6.5.0"
+      }
+    },
+    {
+      "identity" : "verge",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/VergeGroup/Verge",
+      "state" : {
+        "branch" : "main",
+        "revision" : "2f230d69ab1385d98835240dd82d0a882432b3ab"
+      }
+    }
+  ],
+  "version" : 2
+}
